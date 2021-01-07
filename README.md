@@ -32,3 +32,4 @@ beni takip etmeyi unutma
 [Youtube Kanalım](https://www.youtube.com/channel/UC_4na1FpgdE8DJ0cUYpi_vQ)
 [Cibza](https://www.cibza.com)
 [Bionluk](https://bionluk.com/ofbyazilim)
+[Karışık Depoo](https://t.me/karisikdepooyazilim)
