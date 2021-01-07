@@ -1,5 +1,7 @@
 # redirect
 
+###### Önemli not index.php deki açıklama satırı oku lütfen yoksa bu scripti çalıştıramaya bilirsin
+
 Bunlara gerek kalmadı ama not olsun diye burada tutuyom ihtiyacı olan olur
 
 Yönlendirme uygulaması
